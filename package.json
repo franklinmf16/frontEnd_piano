@@ -1,0 +1,8 @@
+{
+  "name": "frontEnd_piano",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/franklinmf16/frontEnd_piano.git",
+  "author": "boxianmo <123>",
+  "license": "MIT"
+}
